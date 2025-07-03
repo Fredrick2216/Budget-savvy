@@ -286,7 +286,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ### **Fredrick**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fredrick2216)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-fredrick-8807042a5/)
 
 *"Building the future of personal finance, one commit at a time."*
 
@@ -294,24 +294,13 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📞 **Support**
 
-<div align="center">
-
-### Need Help? 
-
-[![Issues](https://img.shields.io/badge/Report%20Issues-GitHub-red?style=for-the-badge&logo=github)](https://github.com/Fredrick2216/Budget-savvy/issues)
-[![Documentation](https://img.shields.io/badge/Documentation-Wiki-blue?style=for-the-badge&logo=gitbook)](#)
-
-</div>
-
----
 
 <div align="center">
 
 ### 🌟 **Star this repository if you found it helpful!**
 
-[![Star](https://img.shields.io/github/stars/Fredrick2216/Full-stack-project---Budget-Savvy?style=social)](https://github.com/Fredrick2216/Full-stack-project---Budget-Savvy)
+[![Star](https://img.shields.io/github/stars/Fredrick2216/Budget-Savvy?style=social)](https://github.com/Fredrick2216/Budget-savvy)
 
 ---
 
