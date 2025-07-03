@@ -111,19 +111,7 @@ Budget Savvy is a **next-generation personal finance management platform** that 
 
 ---
 
-## 🎨 **Visual Showcase**
 
-<div align="center">
-
-### 🌌 **Galaxy Theme Dashboard**
-<img src="https://github.com/user-attachments/assets/b64cf482-86c1-4439-893a-c3a2d52e01e5" alt="Galaxy Theme Dashboard" width="800px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(159, 122, 234, 0.3);">
-
-### 🌊 **Nebula Theme Interface**
-<img src="https://github.com/user-attachments/assets/a73a4ddb-1623-436f-b0bd-10e875dae0d8" alt="Nebula Theme Interface" width="800px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(56, 178, 172, 0.3);">
-
-</div>
-
----
 
 ## 🚀 **Quick Start Guide**
 
