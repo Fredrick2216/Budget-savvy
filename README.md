@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+My project Live Hosting - https://stellar-budget-tracker-galaxy-git-main-fredrick2216s-projects.vercel.app/
 
-## Project info
+<h1 align="center">💰 Budget Savvy – Expense Tracker System 🧾</h1>
 
-**URL**: https://lovable.dev/projects/27c2469b-31f1-47d3-b2dc-b4fcfc3a28f0
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+### 🚀 Project Overview
 
-**Use Lovable**
+*Budget Savvy* is a *web-based personal finance manager* designed to help users track their expenses, visualize spending, and encourage smart budgeting. Built with a sleek interface and real-time backend integration, it’s your digital companion to financial awareness.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/27c2469b-31f1-47d3-b2dc-b4fcfc3a28f0) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+### ✨ Features
 
-**Use your preferred IDE**
+- 🔐 *User Authentication* (Sign Up/Login with Supabase Auth)
+- 💸 *Categorized Expense Tracking*
+- 📅 *Monthly Budget Planning*
+- 🔁 *Recurring Expense Management*
+- 📊 *Animated Visual Reports* (Bar, Pie, and Line Charts)
+- 🧘‍♂ *Responsive & Minimal UI* (Built with Tailwind CSS)
+- ☁ *Cloud-Hosted with Vercel*
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🛠 Tech Stack
 
-Follow these steps:
+| Tech            | Description                                   |
+|-----------------|-----------------------------------------------|
+| ⚛ React JS      | Frontend framework for building UI            |
+| 🎨 Tailwind CSS | Utility-first CSS framework                   |
+| 🛡 Supabase      | Backend-as-a-Service with Auth & Database     |
+| 🚀 Vercel        | Hosting and Continuous Deployment             |
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 📸 Screenshots
 
-# Step 3: Install the necessary dependencies.
-npm i
+![Screenshot (964)](https://github.com/user-attachments/assets/b64cf482-86c1-4439-893a-c3a2d52e01e5)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+![Screenshot (965)](https://github.com/user-attachments/assets/a73a4ddb-1623-436f-b0bd-10e875dae0d8)
+
+
+
+
+
+---
+
+### 🧩 Installation Guide
+
+```bash
+# 1. Clone the Repository
+git clone https://github.com/Fredrick2216/Full-stack-project---Budget-Savvy
+
+# 2. Navigate to the project directory
+cd Full-stack-project---Budget-Savvy
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the app
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/27c2469b-31f1-47d3-b2dc-b4fcfc3a28f0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
